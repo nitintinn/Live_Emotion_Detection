@@ -19,10 +19,6 @@ A TFLite model has been built using Google Teachable Machine and it runs real-ti
 ## Tech Used
 Flutter, TFlite, Google Teachable Machine
 
-## Developed by 
-[ Bushra Khan ](https://github.com/whobushra)
-
-[ Eklavya Prasad ](https://github.com/EklavyaPrasad)
 
 
 
